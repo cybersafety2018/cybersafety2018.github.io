@@ -1,7 +1,7 @@
 document.write("<table style=\"width:100%\">");
 document.write("<tr>");
 document.write("<td >	");
-document.write("<a target=\"_tab\" href=\"https://www2018.thewebconf.org/\" ><img src=\"../figures/cikm_logo.jpg\" width=\"100%\"/></a>");
+document.write("<a target=\"_tab\" href=\"https://www2018.thewebconf.org/\" ><img src=\"../figures/TheWebconf_logo.png\" width=\"100%\"/></a>");
 document.write("</td>");
 
 
