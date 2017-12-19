@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CyberSafety 2016</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="../../css/main.css">
+		<script type="text/javascript" src="../../js/jquery-1.12.4.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(e){
+				$('.has-sub').click(function(){
+					$(this).toggleClass('tap');
+					setTimeout(function(){$(this).focus();},10);
+					
+				});
+				
+			});
+			
+		</script>
+	</head>
+	<body>
+		
+		
+		<div id="wrapper">
+			
+		<script type="text/javascript" src="../../includes/title2.js"> </script>
+		<script type="text/javascript" src="../../includes/menu2.js"> </script>
+			
+			<table class="text">
+				<tr>
+					<td>
+						<div>
+						<h3>Tentative Program</h3>
+						<table width="600px">
+							<tr>
+								<td>
+								<h4>Session 1</h4>
+									<ul>
+									<li> Workshop Introduction Talk (9:00AM - 9:15AM)</li>
+									  <li>Invited keynote speech on "Bad Actors in Social Media",
+										Francesca Spezzano, Boise State University, USA  (9:15 AM - 10:30 AM)</li>
+								<ul>
+									<li><b>Short bio</b></li>
+									<img src="../figures/francesca.jpg">
+									<p><b>Francesca Spezzano</b> is an Assistant Professor at Boise State University in the Computer Science department. Before that, she was Postdoctoral Research Associate at the University of Maryland Institute for Advanced Computer Studies. She received her Ph.D. from University of Calabria, Italy in 2012. While a Ph.D. student, she visited the Database Group at University of California Santa Cruz. Her research interests deal with identifying bad actors on social media, signed social networks, information diffusion, and national security.</p>
+									
+									<li><b>Keynote Abstract</b></li>
+									<p>Bad actors seriously compromise social media every day by threatening the safety of the users and the integrity of the content. This keynote speech will give an overview of the state of the art social network analysis, data mining, and machine learning techniques to detect bad actors in social media. More specifically, we will describe both general methods that are platform independent or valid for any malicious user, and methods specific to a particular social media (Twitter, Facebook, Slashdot, Wikipedia, Instagram) and/or a given type of bad actor (bots, spammers, trolls, vandals, cyberbullies). We will group these methods into four broad categories, namely (i) active methods, (ii) content-based, (iii) social network-based, and (iv) behaviorbased, and show their effectiveness in enforcing cybersafety.
+
+									</ul>
+									</ul>
+									
+								</td>
+							</tr>
+							
+							<tr>
+								<td>
+								<h4>Session 2</h4>
+									<ul>
+									  <li>"Vandals and Hoaxes on the Web", Srijan Kumar, University of Maryland, USA   (11:00AM - 11:30 AM))</li>
+									  <li>"Informing Cyberbullying Research with Social/Psychological Insights", Jeremy Blackburn, Telefonica (11:30 AM- 12:30 PM)</li>
+									</ul>
+								</td>
+							</tr>
+							
+							<tr>
+								<td>
+								<h4>Session 3</h4>
+									<ul>
+									  <li>"A Survey of Computational Methods in Cyberbullying Research", Homa Hosseinmardi, Danaher Labs, USA (2:00PM - 2:50 PM)</li>
+									  <li> "Catching Social Media Advertisers with Strategy Analysis", Meng Jiang, University of Illinois at Urbana-Champaign (2:50 PM - 3:10 PM) </li>
+									  <li>"Detecting Cyberbullying using Latent Semantic Indexing",Jacob L. Bigelow, April Edwards Kontostathis, Lynne Edwards, Ursinus College
+									  (3:10PM - 3:30PM)
+									  </li>
+									</ul>
+								</td>
+							</tr>
+							
+							<tr>
+								<td>
+								<h4>Session 4</h4>
+									<ul>
+									  
+									  <li>"A Weakly Supervised Approach for Adaptive Detection of Cyberbullying Roles", Bert Huang, Virginia Tech (4:00PM - 4:30 PM)</li>
+									  <li>Panel discussion of future directions, community growth, and industry partnership in Cybersafety research (4:30 PM - 5:30 PM)</li>
+									</ul>
+								</td>
+							</tr>
+							
+						</table>
+						</div>
+						
+						
+					</td>
+					
+				</tr>
+			</table>
+		
+		</div>
+		
+	
+	</body>
+	
+</html> 
