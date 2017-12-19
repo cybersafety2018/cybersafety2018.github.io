@@ -1,16 +1,16 @@
 document.write("<table style=\"width:100%\">");
 document.write("<tr>");
 document.write("<td >	");
-document.write("<a target=\"_tab\" href=\"http://cikm2016.cs.iupui.edu/\" ><img src=\"figures/cikm_logo.jpg\" width=\"100%\"/></a>");
+document.write("<a target=\"_tab\" href=\"https://www2018.thewebconf.org/\" ><img src=\"figures/cikm_logo.jpg\" width=\"100%\"/></a>");
 document.write("</td>");
 
 
 document.write("<td align=\"center\">");
-document.write("<h1>CyberSafety 2016</h1>");
-document.write("<h3>The First ACM International Workshop on Computational Methods for CyberSafety </h3>");
-document.write("<h3>Co-located with <a target=\"_tab\" href=\"http://cikm2016.cs.iupui.edu/\" >CIKM 2016 </a> </h3>");
-document.write("<h3>October 28, 2016</h3>");
-document.write("<h3>Indianapolis, IN, USA</h3>");
+document.write("<h1>CyberSafety 2018</h1>");
+document.write("<h3>The Third Workshop on Computational Methods in CyberSafety, Online Harrassment and Misinformation</h3>");
+document.write("<h3>Co-located with <a target=\"_tab\" href=\"https://www2018.thewebconf.org/\" >The Web Conference 2018 </a> </h3>");
+document.write("<h3>April 23, 2018</h3>");
+document.write("<h3>Lyon, France</h3>");
 	
 document.write("</td>");
 document.write("<td>");
