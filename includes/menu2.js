@@ -10,6 +10,7 @@ document.write("<li><a href=\"../program\">Program</a></li>");
 document.write("<li><a href=\"../important_dates\">Important Dates</a></li>");
 document.write("<li><a href=\"../registration\">Registration</a></li>");
 document.write("<li><a href=\"../travel\">Travel</a></li>");
+document.write("<li><a href=\"../previous_workshops\">Previous Workshops</a></li>");
 document.write("<li><a href=\"../abstracts\">Abstracts</a></li>");
 document.write("<li><a href=\"../welcome_message\">Chairs' Welcome Message</a></li>");
 document.write("</ul>");
